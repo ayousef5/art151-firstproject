@@ -1,0 +1,16 @@
+body {
+  background-color: yellow;
+  color: blue;
+  font-family: "Comic Sans MS", cursive;
+  margin: 10px;
+}
+
+h1 {
+  color: red;
+  font-size: 80px;
+  text-align: center;
+}
+
+p {
+  font-size: 30px;
+}
